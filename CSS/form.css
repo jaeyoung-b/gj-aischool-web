@@ -42,3 +42,11 @@ label {
     height: 27px;
 }
 
+.icon {
+    width: 80px;
+    height: 80px;
+    vertical-align: middle;
+}
+.title > img, h2 {
+    display: inline;
+}
