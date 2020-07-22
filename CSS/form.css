@@ -1,0 +1,41 @@
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
+
+* {
+    font-family: 'Jeju Gothic', sans-serif;
+}
+
+body {
+    background-color: rgba(31, 143, 255, 50%);
+}
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    text-align: center;
+    vertical-align: middle;
+    border: transparent;
+    border-radius: 4px;
+}
+
+.input {
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border:transparent;
+    border-radius: 3px;
+}
+
+div {
+    margin-top : 3px;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+}
+
+select{
+    width: 150px;
+}
