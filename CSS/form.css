@@ -1,3 +1,4 @@
+/* 폰트 */
 @import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
 
 * {
@@ -7,6 +8,16 @@
 body {
     background-color: rgba(31, 143, 255, 50%);
 }
+
+div {
+    margin-top : 3px;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+}
+
 .btn {
     display: inline-block;
     padding: 6px 12px;
@@ -27,15 +38,8 @@ body {
     border-radius: 3px;
 }
 
-div {
-    margin-top : 3px;
+.dropdown {
+    width: 154px;
+    height: 27px;
 }
 
-label {
-    display: inline-block;
-    width: 100px;
-}
-
-select{
-    width: 150px;
-}
