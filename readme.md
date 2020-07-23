@@ -1,3 +1,6 @@
+## prac_2.html (2020.07.23)
+[WEB]()
+![image](https://user-images.githubusercontent.com/45345120/88248333-cc8e3f80-ccdb-11ea-9f8a-00433f170194.png)
 ## prac_1.html - CSS position (2020.07.22) 
 [WEB](https://seryoungshim.github.io/gj-aischool-web/prac_1.html)
 ![image](https://user-images.githubusercontent.com/45345120/88134880-bff8e100-cc20-11ea-886d-e300b837f719.png)
